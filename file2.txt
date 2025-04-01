@@ -1,0 +1,4 @@
+cycle
+bike
+car
+plane
